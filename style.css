@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+    color:white;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    min-height:100vh;
+}
+div{
+    width:38rem;
+    font-family:sans-serif;
+}
